@@ -1,3 +1,3 @@
 greet='Hello world'
-
-print(greet)
+user_name=input('enter your name:')
+print(f"{greet},{user_name}")

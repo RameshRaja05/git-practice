@@ -1,3 +1,5 @@
 const greet='Hello world'
 
-console.log(greet)
+const username='Ramesh'
+
+console.log(`${greet},${username}`)
